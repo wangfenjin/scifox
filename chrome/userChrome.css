@@ -13,7 +13,7 @@
   visibility: collapse;
 }
 
-#sidebar-box {
+/* #sidebar-box {
   --uc-sidebar-width: 10px !important;
   --uc-sidebar-hover-width: 275px;
   --uc-autohide-sidebar-delay: 1s;
@@ -36,7 +36,7 @@
   min-width: var(--uc-sidebar-hover-width) !important;
   opacity: 1 !important;
   transition-delay: 0s !important;
-}
+} */
 
 #sidebar-box > #sidebar-splitter, 
 #sidebar-splitter {
